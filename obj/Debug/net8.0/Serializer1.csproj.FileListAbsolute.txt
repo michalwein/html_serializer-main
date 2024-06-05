@@ -1,0 +1,17 @@
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\Serializer1.exe
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\Serializer1.deps.json
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\Serializer1.runtimeconfig.json
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\Serializer1.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\Serializer1.pdb
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\Serializer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\Serializer1.AssemblyInfoInputs.cache
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\Serializer1.AssemblyInfo.cs
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\Serializer1.csproj.CoreCompileInputs.cache
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\Serializer1.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\refint\Serializer1.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\Serializer1.pdb
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\Serializer1.genruntimeconfig.cache
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\obj\Debug\net8.0\ref\Serializer1.dll
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\content.txt
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\HtmlTags.json
+C:\Users\אביטל\Documents\לימודים\שנה ב\פרקטיקוד\Serializer\Serializer1\bin\Debug\net8.0\HtmlVoidTags.json
